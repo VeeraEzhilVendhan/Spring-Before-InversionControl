@@ -1,0 +1,4 @@
+<beans>
+	<bean id="bCoach" class="com.spring.Inversion_of_Control">		
+	</bean>
+</beans>
